@@ -1,0 +1,2 @@
+# gobox
+Golang Outbox pattern
